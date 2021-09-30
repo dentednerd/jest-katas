@@ -10,7 +10,7 @@ describe('2. mapWithCb', () => {
 
   });
   
-  it('throws an error if second argument is not an array', () => {
+  it('throws an error if second argument is not a function', () => {
 
   });
   
